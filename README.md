@@ -18,6 +18,22 @@ make homework-i-purge
 
 ---
 
+## Generate big amount of user data.
+
+### 🚀 Run script
+
+```
+make homework-i-run-users
+```
+
+### 🏁 Purge script
+
+```
+make homework-i-purge
+```
+
+---
+
 ## Docker
 
 ### 🟢 Run docker

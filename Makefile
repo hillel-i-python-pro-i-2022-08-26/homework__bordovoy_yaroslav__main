@@ -3,6 +3,11 @@
 homework-i-run:
 	@python organize_output/organize_output__groups_and_humans.py
 
+.PHONY: homework-i-run-users
+# Run homework
+homework-i-run-users:
+	@python generate_users/generate_users.py
+
 .PHONY: homework-i-purge
 homework-i-purge:
 	@echo The end
