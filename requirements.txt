@@ -1,0 +1,14 @@
+# Autoformatter
+black==22.10.0
+
+# Check codestyle
+flake8==5.0.4
+
+# Generate fake-names
+faker==15.1.1
+
+# Upgrade syntax
+pyupgrade==3.1.0
+
+# Pre-commit hook
+pre-commit==2.20.0
